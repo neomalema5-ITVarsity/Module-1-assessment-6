@@ -1,0 +1,83 @@
+.galery img{
+    width: 100%;
+}
+
+h4{
+    font-family: helvetica, sans-serif;
+    color:red;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+ div p{
+    color: green;
+    font-size: larger;
+    
+    
+}
+h2{
+    font-family: sans-serif;
+    color:darkslategray;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+    font-size:larger;
+    text-align: center;
+}
+
+p{
+    font-family:serif;
+}
+
+table{
+    font-family: helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: yellowgreen;  
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+#menu a{
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color: #5077bd;
+}
+
+#menu-bar a{
+    text-decoration: none;
+    color: rgb(0, 128, 21);
+    font-weight: 800;
+    font-size: 14px;
+    font-family: helvetica, sans-serif;
+    
+    background-image: url('images/menu-button.gif');
+    background-repeat: no-repeat;
+    display: block;
+    width: 128px;
+    height: 25px;
+    padding-left: 18px;
+    padding-top: 2px;
+    
+}
